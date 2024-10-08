@@ -1,4 +1,3 @@
-- 👋 Hello World, I’m Abdullahi Adetunji
-- 👀 I’m a Front-End Developer 
-- 🌱 I’m currently enrolled as a student of software engineering at ALX.
+- 👋 Hello World, My name is Abdullahi Adetunji
+- 👀 I’m a Front-End Developer and a WordPress Developer
 - 💞️ I’m looking to collaborate on ... Front-End Projects
