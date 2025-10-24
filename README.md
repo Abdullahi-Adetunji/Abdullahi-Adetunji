@@ -37,9 +37,9 @@ An advocacy platform for **JESA Future Foundation**, dedicated to protecting and
 
 A clean and professional site for **Jason Charity Foundation**, highlighting humanitarian projects and community development efforts.
 
-### [Jattu Juristic](https://www.jattujuristic.com)
+### [Jattu Juristic Practitioners](https://www.jattujuristic.com)
 
-A professional website for **Jattu Juristic**, providing legal, business, and corporate services with a modern digital presence.
+A professional website for **Jattu Juristic Practitioners**, providing legal, business, and corporate services with a modern digital presence.
 
 ### [WestDeeb](https://www.westdeeb.com)
 
@@ -50,8 +50,9 @@ An online platform for **WestDeeb Construction Company**, showcasing their engin
 ## Get in Touch 📬
 
 * 🌐 [Personal Website](https://mainstack.me/triplea)
-* 💼 [LinkedIn](https://linkedin.com/in/abdullahiadetunji)
-* 💻 [GitHub](https://github.com/abdullahiadetunji)
+* 💼 [LinkedIn](https://www.linkedin.com/in/abdullahi-adetunji)
+* 💻 [GitHub](https://github.com/Abdullahi-Adetunji) 
 
 ---
-*“Let’s build something great together 💡”* 
+
+*“Let’s build something great together 💡”*
