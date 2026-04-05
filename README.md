@@ -2,14 +2,12 @@
 
 ## About Me 🚀
 
-I’m a **web developer** who enjoys building clean, responsive, and user-friendly websites. My focus is on writing efficient, maintainable code while bringing creative ideas to life. Beyond development, I’m also a **student of physiology**, deeply curious about how technology and neuroscience can work together to improve lives.
+I’m a Software Engineer (Frontend | React) specializing in building responsive, user-centered web applications. I also have experience in WordPress development and customization, enabling me to deliver versatile web solutions.
 
-I’m always learning, solving new challenges, and exploring how the web can be used to create meaningful impact.
+I enjoy turning ideas into clean, interactive, and engaging web experiences using modern frontend tools and best practices.
 
-* 🌱 **Currently learning:** Modern JavaScript techniques and web optimization
-* 🔭 **Working on:** Myself — improving my workflow and deepening my development skills
-* 🌍 **Languages:** JavaScript, English, Yoruba
-* 📫 **Reach me at:** [adetunjiabdullahi2406@gmail.com](mailto:adetunjiabdullahi2406@gmail.com)
+🌍 Languages & Tools: JavaScript, HTML, CSS, React, WordPress, Git
+📫 Reach me at: adetunjiabdullahi2406@gmail.com
 
 ---
 
