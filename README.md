@@ -6,7 +6,6 @@ I’m a Software Engineer (Frontend | React) specializing in building responsive
 
 I enjoy turning ideas into clean, interactive, and engaging web experiences using modern frontend tools and best practices.
 
-🌍 Languages & Tools: JavaScript, HTML, CSS, React, WordPress, Git
 📫 Reach me at: adetunjiabdullahi2406@gmail.com
 
 ---
