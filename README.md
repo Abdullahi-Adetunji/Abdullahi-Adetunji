@@ -2,9 +2,14 @@
 
 ## About Me 🚀
 
-I’m a Software Engineer (Frontend | React) specializing in building responsive, user-centered web applications. I also have experience in WordPress development and customization, enabling me to deliver versatile web solutions.
+I'm a Software Engineer (Frontend | React | Next.js) building production-grade
+web applications — from fintech infrastructure handling real money to a
+neuroscience research platform. I also have a background in WordPress
+development, and I'm a physiology student on the side, which shapes how I
+approach systems: understand them closely before you touch them.
 
-I enjoy turning ideas into clean, interactive, and engaging web experiences using modern frontend tools and best practices.
+I enjoy turning ideas into clean, interactive, and engaging web experiences
+using modern frontend tools and best practices.
 
 📫 Reach me at: adetunjiabdullahi2406@gmail.com
 
@@ -12,10 +17,13 @@ I enjoy turning ideas into clean, interactive, and engaging web experiences usin
 
 ## My Skills 🧠
 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -23,34 +31,53 @@ I enjoy turning ideas into clean, interactive, and engaging web experiences usin
 
 ## Featured Projects 💻
 
-### [WALSA](https://www.walsa.org)
+### [VaultHQ](https://vaulthq-app.onrender.com)
+General-purpose virtual NUBAN account infrastructure platform — admin
+dashboard and customer portal, built for the **Nomba Hackathon**
+(Infrastructure Track). The parent platform that Claro and Ronda were later
+built on top of as their own separate products.
 
-The official website of the **West African Law Students’ Association**, designed to connect law students across West Africa and promote academic and professional collaboration.
+### [Claro](https://claro-ohji.onrender.com)
+School fee collection infrastructure built on Monnify Reserved Accounts —
+every student gets a dedicated NUBAN, payments auto-reconcile, and parents
+get a WhatsApp + USSD channel in five Nigerian languages. Submitted to
+**APIConf Lagos Hackathon** (Monnify Developer Challenge); now piloting with
+a real school.
 
-### [JESA Future Foundation](https://www.jesavoice.com)
+### [Ronda](https://ronda-app-rtul.onrender.com)
+Digital Ajo (rotating savings group) platform, in production and handling
+real money. Differentiates on default-risk mitigation: trust-weighted payout
+order, quorum-gated approval, and an escrow buffer.
 
-An advocacy platform for **JESA Future Foundation**, dedicated to protecting and reintegrating vulnerable and trafficked children through awareness and support initiatives.
+### [NaijaTaste](https://naijataste-app.onrender.com)
+Nigerian food discovery and review platform with a recommendation engine,
+supporting Pidgin, Yoruba, Hausa, and Igbo. 🏆 **Winner — DSN x Bluechip LLM
+Agent Challenge**, Data & AI Summit Hackathon 3.0, Lagos.
 
-### [Jason Charity Support Foundation](https://www.jasoncharity.org)
+### [LAUTECH Neuroscience Group](https://lautechneuro.org.ng)
+Full rebuild of lautechneuro.org.ng from static HTML into a production-grade
+Next.js application — App Router, Server Components, shadcn/ui. Rebuild is
+in progress; the link above points to the current live site.
 
-A clean and professional site for **Jason Charity Foundation**, highlighting humanitarian projects and community development efforts.
+---
 
-### [Jattu Juristic Practitioners](https://www.jattujuristic.com)
+## Client Work 
 
-A professional website for **Jattu Juristic Practitioners**, providing legal, business, and corporate services with a modern digital presence.
-
-### [WestDeeb](https://www.westdeeb.com)
-
-An online platform for **WestDeeb Construction Company**, showcasing their engineering expertise, projects, and service offerings.
+- **[WALSA](https://www.walsa.org)** — West African Law Students' Association
+- **[JESA Future Foundation](https://www.jesavoice.com)** — child protection & reintegration advocacy
+- **[Jason Charity Support Foundation](https://www.jasoncharity.org)** — humanitarian & community development
+- **[Jattu Juristic Practitioners](https://www.jattujuristic.com)** — legal, business & corporate services
+- **[WestDeeb](https://www.westdeeb.com)** — construction & engineering
 
 ---
 
 ## Get in Touch 📬
 
-* 🌐 [Personal Website](https://mainstack.me/triplea)
-* 💼 [LinkedIn](https://www.linkedin.com/in/abdullahi-adetunji)
-* 💻 [GitHub](https://github.com/Abdullahi-Adetunji) 
+- 🌐 [Portfolio](https://portfolio-lime-delta-28.vercel.app/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdullahi-adetunji)
+- 💻 [GitHub](https://github.com/Abdullahi-Adetunji)
+- 🐦 [X](https://x.com/theblazetrailer)
 
 ---
 
-*“Let’s build something great together 💡”*
+*"Let's build something great together 💡"*
