@@ -5,7 +5,7 @@
 I'm a Software Engineer (Frontend | React | Next.js) building production-grade
 web applications — from fintech infrastructure handling real money to a
 neuroscience research platform. I also have a background in WordPress
-development, and I'm a physiology student on the side, which shapes how I
+development, and I'm a physiology student, which shapes how I
 approach systems: understand them closely before you touch them.
 
 I enjoy turning ideas into clean, interactive, and engaging web experiences
@@ -56,8 +56,7 @@ Agent Challenge**, Data & AI Summit Hackathon 3.0, Lagos.
 
 ### [LAUTECH Neuroscience Group](https://lautechneuro.org.ng)
 Full rebuild of lautechneuro.org.ng from static HTML into a production-grade
-Next.js application — App Router, Server Components, shadcn/ui. Rebuild is
-in progress; the link above points to the current live site.
+Next.js application — App Router, Server Components, shadcn/ui. 
 
 ---
 
