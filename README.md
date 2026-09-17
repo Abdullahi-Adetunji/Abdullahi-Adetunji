@@ -13,7 +13,7 @@ using modern frontend tools and best practices.
 
 ---
 
-## My Skills 🧠
+## My Skills 
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
