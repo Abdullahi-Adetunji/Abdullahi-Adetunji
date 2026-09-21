@@ -1,6 +1,6 @@
 # Hi there, I'm **Abdullahi Adetunji** 👋
 
-## About Me 
+## About Me
 
 I'm a frontend engineer working across the Nigerian tech ecosystem, building
 production-grade web applications with React and Next.js.
@@ -10,7 +10,7 @@ production-grade web applications with React and Next.js.
 
 ---
 
-## My Skills 
+## My Skills
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ production-grade web applications with React and Next.js.
 
 ---
 
-## Featured Projects 
+## Featured Projects
 
 ### [NaijaTaste](https://naijataste-app.onrender.com)
 An AI agent built for Nigerians. Simulates how a Nigerian would review a
@@ -38,8 +38,9 @@ Technologies LLM Agent Challenge, Data & AI Summit, Hackathon 3.0, out of
 ### [VaultHQ](https://vaulthq-app.onrender.com)
 General-purpose virtual NUBAN account infrastructure platform, with an
 admin dashboard and customer portal, built on the Nomba API. **Top 10 out
-of 1,000+ teams**, Nomba Hackathon. The parent platform that Claro and
-CoSave were later built on top of as their own separate products.
+of 1,000+ teams**, Nomba × DevCareer Hackathon 2026. The parent platform
+that Claro and CoSave were later built on top of as their own separate
+products.
 
 ### [Claro](https://claro-ohji.onrender.com)
 School fee collection infrastructure built on Monnify Reserved Accounts.
@@ -52,11 +53,31 @@ Digital Ajo (rotating savings group) platform. Differentiates on
 default-risk mitigation: trust-weighted payout order and quorum-gated
 payout approval, instead of leaving payout order to trust alone.
 
+### FraudGuard
+AI fraud detection for African digital finance, moving beyond binary
+approve/reject decisions to a tiered risk engine. Combines behavioral
+biometrics for account takeover detection, recipient trust scoring, and
+an ethical transaction filter, with AI-generated explanations delivered
+in local African languages. 🏆 **Top 6**, Mjanga AI Challenge 2026, Team
+Zero-Trust.
+
+### [OmniShield](https://omnishield-zero-trust.onrender.com)
+AI-powered SIM swap fraud detection platform for telecom operators,
+correlating device changes, location anomalies, and transaction behavior
+into real-time, explainable risk scores for fraud analysts. Built for the
+AI4Telco Hackathon (Microsoft AI Skills Week Lagos), Team ZeroTrust.
+
 ### [K-ID](https://karevo.vercel.app)
 Digital health identity platform for Nigeria (Karevo). Patients get a
 secure profile where verified labs and hospitals send records, and share
 specific records via time-limited QR codes instead of handing over full
 access.
+
+### [Afya](https://afyamvp-3vyz.onrender.com)
+AI-powered primary healthcare intelligence platform connecting patients
+to nearby Primary Health Centres, with an admin dashboard for facility
+readiness, patient activity, and natural-language data queries. Built for
+Datafest Africa Datathon 2025.
 
 ### Studia
 AI-powered exam intelligence merged with a student-contributed repository
@@ -77,7 +98,7 @@ built with App Router, Server Components, and shadcn/ui.
 
 ---
 
-## Freelance Work 
+## Freelance Work
 
 - **[WALSA](https://www.walsa.org)** — West African Law Students' Association
 - **[JESA Future Foundation](https://www.jesavoice.com)** — child protection & reintegration advocacy
@@ -94,7 +115,7 @@ built with App Router, Server Components, and shadcn/ui.
 
 ---
 
-## Get in Touch 
+## Get in Touch
 
 - [Portfolio](https://abdullahi-adetunji.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/abdullahi-adetunji)
