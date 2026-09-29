@@ -48,11 +48,6 @@ Every student gets a dedicated NUBAN, payments auto-reconcile, fraud
 detection flags anomalies, and parents get a WhatsApp and USSD channel in
 five Nigerian languages.
 
-### [CoSave](https://cosave-app.onrender.com)
-Digital Ajo (rotating savings group) platform. Differentiates on
-default-risk mitigation: trust-weighted payout order and quorum-gated
-payout approval, instead of leaving payout order to trust alone.
-
 ### FraudGuard
 AI fraud detection for African digital finance, moving beyond binary
 approve/reject decisions to a tiered risk engine. Combines behavioral
