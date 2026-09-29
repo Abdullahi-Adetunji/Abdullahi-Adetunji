@@ -103,7 +103,7 @@ built with App Router, Server Components, and shadcn/ui.
 - **[Envo Structs Nigeria Limited](https://www.envostructs.com)** — construction & infrastructure development
 - **[Iyabo Adenekan Supportive Foundation](https://www.iasf.ng)** — humanitarian foundation
 - **[Moloyin Glowing Limited](https://moloyin.com)** — fashion brand
-- **[Siseyonde De-Spare Limited](https://siseyondeauto.com)** — motorcycle parts & accessories
+- **[Siseyonde De-Spare Limited](https://siseyondeauto.com)** — e-commerce website for motorcycle parts & accessories sales
 - **[Atra Tech Innovation and Recycling](https://www.atratech.com.ng)** — tech innovation & recycling
 - **[Just2Fast](https://www.just2fast.com.ng)** — courier company
 - **[ARS Handyman](https://www.arshandyman.com.ng)** — handyman services
